@@ -1,23 +1,11 @@
-const express = require('express');
-const fs = require('fs');
-const path = require('path');
-const router = express.Router();
-const DATA_PATH = path.join(__dirname, '../../data/items.json');
+import { Router } from 'express';
+import statsController from '../controllers/stats.js';
+
+const router = Router();
 
 // GET /api/stats
-router.get('/', (req, res, next) => {
-  fs.readFile(DATA_PATH, (err, raw) => {
-    if (err) return next(err);
+router.get('/', statsController.getStats);
 
-    const items = JSON.parse(raw);
-    // Intentional heavy CPU calculation
-    const stats = {
-      total: items.length,
-      averagePrice: items.reduce((acc, cur) => acc + cur.price, 0) / items.length
-    };
 
-    res.json(stats);
-  });
-});
 
-module.exports = router;
+export default router;

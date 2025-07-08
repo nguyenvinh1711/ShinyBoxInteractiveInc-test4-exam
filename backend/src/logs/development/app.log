@@ -1,0 +1,581 @@
+{"level":30,"time":1750755559685,"pid":4295,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":1750755559687,"pid":4295,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":1750755576679,"pid":4432,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":1750755576681,"pid":4432,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:00:15.891Z","pid":5023,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:00:15.893Z","pid":5023,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T09:00:17.730Z","pid":5023,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","timestamp":"2025-06-24T09:00:17.730Z","status":"Validation Error","details":{"name":{"errors":["Invalid input: expected string, received undefined"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-24T09:00:31.160Z","pid":5023,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","timestamp":"2025-06-24T09:00:31.160Z","status":"Validation Error","details":{"name":{"errors":["Invalid input: expected string, received undefined"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-24T09:00:38.110Z","pid":5023,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","timestamp":"2025-06-24T09:00:38.110Z","status":"Validation Error","details":{"name":{"errors":["Invalid input: expected string, received undefined"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T09:00:59.062Z","pid":5436,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:00:59.064Z","pid":5436,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:01:05.131Z","pid":5518,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:01:05.133Z","pid":5518,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:02:53.845Z","pid":6244,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:02:53.847Z","pid":6244,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:03:05.692Z","pid":6374,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:03:05.694Z","pid":6374,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:12:23.804Z","pid":10545,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:12:23.806Z","pid":10545,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T09:12:27.389Z","pid":10545,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","timestamp":"2025-06-24T09:12:27.389Z","status":"Validation Error","details":{"name":{"errors":["Invalid input: expected string, received undefined"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T09:13:19.148Z","pid":10979,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:13:19.150Z","pid":10979,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:13:21.856Z","pid":11104,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:13:21.858Z","pid":11104,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T09:13:49.066Z","pid":11104,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","timestamp":"6/24/2025","status":"Validation Error","details":{"name":{"errors":["Invalid input: expected string, received undefined"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-24T09:13:56.657Z","pid":11104,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","timestamp":"6/24/2025","status":"Validation Error","details":{"name":{"errors":["Invalid input: expected string, received undefined"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T09:14:03.082Z","pid":11424,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:14:03.084Z","pid":11424,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:14:03.969Z","pid":11483,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:14:03.971Z","pid":11483,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:14:08.807Z","pid":11606,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:14:08.809Z","pid":11606,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:14:21.758Z","pid":11733,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:14:21.760Z","pid":11733,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T09:14:23.097Z","pid":11733,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","timestamp":"2025-06-24T09:14:23.097Z","status":"Validation Error","details":{"name":{"errors":["Invalid input: expected string, received undefined"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T09:14:42.482Z","pid":11933,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:14:42.486Z","pid":11933,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:20:02.606Z","pid":13917,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:20:02.608Z","pid":13917,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T09:20:23.709Z","pid":13917,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"Validation Error","details":{"name":{"errors":["Invalid input: expected string, received undefined"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-24T09:20:25.866Z","pid":13917,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"API Error","message":"Item already exists","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T09:22:00.457Z","pid":14719,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:22:00.459Z","pid":14719,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:22:04.498Z","pid":14803,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:22:04.500Z","pid":14803,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T09:22:28.191Z","pid":14803,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"API Error","message":"Item already exists","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T09:22:46.207Z","pid":15136,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:26:07.591Z","pid":16972,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T09:26:18.664Z","pid":16972,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"API Error","message":"Item already exists","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T09:26:46.140Z","pid":17348,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T09:26:58.216Z","pid":17348,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"API Error","message":"Item already exists","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T09:28:27.562Z","pid":18018,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:29:21.563Z","pid":18453,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:33:18.375Z","pid":19859,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:34:23.919Z","pid":20391,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:34:29.168Z","pid":20581,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:34:36.120Z","pid":20730,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T09:35:02.354Z","pid":21006,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:07:51.296Z","pid":35158,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T10:07:53.895Z","pid":35158,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items","status":"error","message":"logger.info is not a function","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T10:08:04.591Z","pid":35277,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:08:36.452Z","pid":35520,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T10:08:39.968Z","pid":35520,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items","status":"error","message":"logger.info is not a function","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T10:12:24.282Z","pid":36981,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:12:26.623Z","pid":37048,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:12:32.245Z","pid":37181,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:12:33.371Z","pid":37247,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:12:36.530Z","pid":37315,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:13:16.848Z","pid":37617,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:13:34.839Z","pid":37810,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:13:36.960Z","pid":37877,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:13:38.395Z","pid":37994,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:13:43.766Z","pid":38126,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:13:46.136Z","pid":38247,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:13:52.027Z","pid":38369,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:15:03.813Z","pid":38907,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:15:12.289Z","pid":39037,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:15:14.866Z","pid":39164,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:15:28.318Z","pid":39351,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:15:37.366Z","pid":39474,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:15:50.025Z","pid":39653,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:15:52.290Z","pid":39718,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:16:14.526Z","pid":39906,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:16:34.817Z","pid":40155,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:16:50.020Z","pid":40335,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:17:06.590Z","pid":40495,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:17:09.379Z","pid":40566,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:17:10.389Z","pid":40724,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:17:11.830Z","pid":40897,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:17:19.908Z","pid":41083,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:18:02.836Z","pid":41415,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:18:03.306Z","pid":41473,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:19:04.088Z","pid":41906,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:19:12.388Z","pid":42075,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:19:20.566Z","pid":42200,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:19:49.348Z","pid":42406,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:20:06.163Z","pid":42636,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:22:37.979Z","pid":43589,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:23:58.331Z","pid":44108,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:26:06.750Z","pid":44888,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:27:24.575Z","pid":45416,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:27:27.623Z","pid":45475,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:28:45.967Z","pid":47243,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T10:28:55.759Z","pid":47243,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items?limit=3&page=20&q=2","status":"Validation Error","details":{"limit":{"errors":["Invalid input: expected number, received string"]},"page":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-24T10:31:15.399Z","pid":47243,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items?limit=3&page=20&q=2","status":"Validation Error","details":{"limit":{"errors":["Invalid input: expected number, received string"]},"page":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T10:31:40.396Z","pid":48390,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T10:31:42.567Z","pid":48390,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items?limit=3&page=20&q=2","status":"Validation Error","details":{"page":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T10:31:47.046Z","pid":48512,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:32:29.398Z","pid":48802,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:33:58.465Z","pid":49373,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:34:02.501Z","pid":49500,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T10:34:07.663Z","pid":49500,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items?limit=30&page=10&qw=2","status":"Validation Error","details":{"limit":{"errors":["Invalid input: expected number, received string"]},"page":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T10:34:22.107Z","pid":49678,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T10:34:23.088Z","pid":49678,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items?limit=30&page=10&qw=2","status":"Validation Error","details":{"limit":{"errors":["Invalid input: expected number, received string"]},"page":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T10:34:36.962Z","pid":49818,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T10:34:38.122Z","pid":49818,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items?limit=30&page=10&qw=2","status":"Validation Error","details":{"limit":{"errors":["Invalid input: expected number, received string"]},"page":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T10:35:18.573Z","pid":50137,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T10:35:19.835Z","pid":50137,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items?limit=30&page=10&qw=2","status":"Validation Error","statusCode":400,"details":{"limit":{"errors":["Invalid input: expected number, received string"]},"page":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T10:36:18.700Z","pid":50559,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:36:20.835Z","pid":50676,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T10:36:22.736Z","pid":50676,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items?limit=30&page=10&qw=2","status":"Validation Error","details":{"limit":{"errors":["Invalid input: expected number, received string"]},"page":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-24T10:36:57.806Z","pid":50676,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items?limit=30&page=10&q=2","status":"Validation Error","details":{"limit":{"errors":["Invalid input: expected number, received string"]},"page":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-24T10:37:14.097Z","pid":51079,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:37:18.155Z","pid":51155,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:37:20.195Z","pid":51269,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:37:27.092Z","pid":51340,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-24T10:37:28.695Z","pid":51453,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-24T10:38:04.419Z","pid":51453,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items?limit=30dd&page=12&q=2","status":"Validation Error","details":{"limit":{"errors":["Invalid input: expected number, received NaN"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-25T07:19:05.254Z","pid":74793,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-25T07:35:31.973Z","pid":82290,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-25T07:35:54.873Z","pid":82494,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-25T07:36:00.025Z","pid":82620,"hostname":"Lap-VinhSmile-7.local","err":{"type":"TypeError","message":"Non-string provided as watch path: [object global]","stack":"TypeError: Non-string provided as watch path: [object global]\n    at unifyPaths (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/index.js:96:11)\n    at FSWatcher.add (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/index.js:411:15)\n    at Object.watch (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/index.js:969:11)\n    at watchFile (file:///Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/src/utils/fileProcessor.js:20:30)\n    at file:///Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/src/index.js:10:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:195:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:337:24)\n    at async loadESM (node:internal/process/esm_loader:34:7)\n    at async handleMainPromise (node:internal/modules/run_main:106:12)"},"msg":"Uncaught Exception"}
+{"level":30,"time":"2025-06-25T07:36:01.348Z","pid":82624,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-25T07:36:04.405Z","pid":82713,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-25T07:36:18.719Z","pid":82713,"hostname":"Lap-VinhSmile-7.local","err":{"type":"Error","message":"test","stack":"Error: test\n    at FSWatcher.<anonymous> (file:///Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/src/utils/fileProcessor.js:31:15)\n    at FSWatcher.emit (node:events:517:28)\n    at FSWatcher.emitWithAll (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/index.js:540:8)\n    at FSWatcher._emit (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/index.js:632:8)\n    at FsEventsHandler.handleEvent (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:291:14)\n    at FsEventsHandler.addOrChange (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:241:8)\n    at FsEventsHandler.checkExists (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:249:12)"},"msg":"Unhandled Promise Rejection"}
+{"level":30,"time":"2025-06-25T07:36:44.790Z","pid":82990,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-25T07:37:20.158Z","pid":82990,"hostname":"Lap-VinhSmile-7.local","err":{"type":"Error","message":"test","stack":"Error: test\n    at FSWatcher.<anonymous> (file:///Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/src/utils/fileProcessor.js:33:19)\n    at FSWatcher.emit (node:events:517:28)\n    at FSWatcher.emitWithAll (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/index.js:540:8)\n    at FSWatcher._emit (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/index.js:632:8)\n    at FsEventsHandler.handleEvent (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:291:14)\n    at FsEventsHandler.addOrChange (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:241:8)\n    at watchCallback (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:345:21)\n    at filteredListener (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:129:7)\n    at /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:155:11\n    at Set.forEach (<anonymous>)"},"msg":"Unhandled Promise Rejection"}
+{"level":30,"time":"2025-06-27T08:44:36.141Z","pid":11290,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T09:51:18.469Z","pid":23351,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T10:54:06.287Z","pid":35574,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-27T10:54:25.838Z","pid":35574,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","method":"GET","url":"/api/items/2764097","status":"Validation Error","details":{"id":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-27T10:54:25.843Z","pid":35574,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","method":"GET","url":"/api/items/2764097","status":"Validation Error","details":{"id":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-27T10:54:52.988Z","pid":35574,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","method":"GET","url":"/api/items/6813847","status":"Validation Error","details":{"id":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-27T10:54:52.991Z","pid":35574,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","method":"GET","url":"/api/items/6813847","status":"Validation Error","details":{"id":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-27T10:54:57.825Z","pid":35574,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","method":"GET","url":"/api/items/3654911","status":"Validation Error","details":{"id":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-27T10:54:57.832Z","pid":35574,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","method":"GET","url":"/api/items/3654911","status":"Validation Error","details":{"id":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-27T10:55:00.060Z","pid":35574,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","method":"GET","url":"/api/items/5794972","status":"Validation Error","details":{"id":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-27T10:55:39.274Z","pid":36233,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T11:09:22.597Z","pid":38338,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T11:13:25.857Z","pid":38742,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T11:14:28.417Z","pid":38906,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-27T11:14:30.526Z","pid":38906,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","method":"GET","url":"/api/items/5794972","status":"Validation Error","details":{"id":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-27T11:14:30.532Z","pid":38906,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","method":"GET","url":"/api/items/5794972","status":"Validation Error","details":{"id":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-27T11:15:55.358Z","pid":39033,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-27T11:16:00.188Z","pid":39033,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","method":"GET","url":"/api/items/5794972","status":"Validation Error","details":{"id":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-27T11:16:00.199Z","pid":39033,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","method":"GET","url":"/api/items/5794972","status":"Validation Error","details":{"id":{"errors":["Invalid input: expected number, received string"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-27T11:16:24.672Z","pid":39115,"hostname":"172-0-2-13.lightspeed.brhmal.sbcglobal.net","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:50:55.869Z","pid":56154,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:52:29.933Z","pid":56345,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:52:44.930Z","pid":56421,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:53:03.965Z","pid":56502,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:53:14.162Z","pid":56574,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:53:27.270Z","pid":56650,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:54:19.882Z","pid":56750,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:54:28.511Z","pid":56828,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:54:36.390Z","pid":56955,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:54:46.569Z","pid":57028,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:54:48.768Z","pid":57148,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:55:09.613Z","pid":57239,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:55:22.079Z","pid":57312,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:55:25.034Z","pid":57382,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:56:02.731Z","pid":57488,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:56:09.539Z","pid":57555,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:56:20.251Z","pid":57682,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:56:30.258Z","pid":57758,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T16:56:56.149Z","pid":57838,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T17:03:13.573Z","pid":58193,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T17:03:14.788Z","pid":58256,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-27T17:03:16.778Z","pid":58318,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T08:43:10.425Z","pid":22252,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T08:44:35.887Z","pid":22428,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T08:44:51.064Z","pid":22516,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T08:47:04.357Z","pid":22676,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T08:47:18.523Z","pid":22815,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T08:48:26.223Z","pid":22911,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T09:19:32.146Z","pid":24463,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T09:42:18.154Z","pid":26360,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T10:28:59.518Z","pid":33934,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T10:29:03.525Z","pid":34032,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T10:32:28.683Z","pid":34258,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T10:43:07.976Z","pid":36467,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-28T10:48:26.420Z","pid":38035,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T10:27:38.450Z","pid":9784,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T10:37:19.962Z","pid":10536,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-29T10:37:34.117Z","pid":10536,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items/%228743464%22","status":"Validation Error","message":"✖ Invalid input: expected number, received NaN\n  → at id","details":{"id":{"errors":["Invalid input: expected number, received NaN"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-29T10:38:07.555Z","pid":10661,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T10:40:59.884Z","pid":10855,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T10:51:11.068Z","pid":11681,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-29T10:51:15.251Z","pid":11681,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items/%228743464%22","status":"Validation Error","message":"✖ Invalid input: expected number, received NaN\n  → at id","details":{"id":{"errors":["Invalid input: expected number, received NaN"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-29T10:53:17.324Z","pid":11958,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T10:53:48.460Z","pid":12043,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T10:53:52.899Z","pid":12117,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T10:58:45.242Z","pid":12352,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T10:59:26.105Z","pid":12455,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T10:59:37.267Z","pid":12531,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T11:01:09.965Z","pid":12767,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T11:01:14.945Z","pid":12836,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T11:01:55.064Z","pid":12938,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T11:02:17.121Z","pid":13025,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T11:02:20.189Z","pid":13092,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T11:02:46.543Z","pid":13164,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-29T11:02:49.661Z","pid":13164,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items/%228743464%22","status":"Validation Error","message":"✖ Invalid input: expected number, received NaN\n  → at id","details":{"id":{"errors":["Invalid input: expected number, received NaN"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-29T11:27:17.659Z","pid":19089,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-29T11:27:19.383Z","pid":19089,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items/%228743464%22","status":"Validation Error","message":"✖ Invalid input: expected number, received NaN\n  → at id","details":{"id":{"errors":["Invalid input: expected number, received NaN"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-29T11:27:21.806Z","pid":19089,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items","status":"error","message":"APIError is not defined","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-29T11:27:46.946Z","pid":19175,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-29T11:27:49.433Z","pid":19175,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items","status":"API Error","message":"Invalid field","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-29T11:28:02.532Z","pid":19265,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T11:28:09.722Z","pid":19349,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T11:36:29.521Z","pid":20932,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-29T11:36:52.963Z","pid":20932,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items","status":"API Error","message":"Invalid field","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-29T11:36:59.734Z","pid":21019,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-29T11:37:02.257Z","pid":21019,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/itemss","status":"API Error","message":"Route Not Found","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-29T11:38:26.049Z","pid":21241,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T11:38:29.646Z","pid":21313,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-29T11:38:31.891Z","pid":21395,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T08:08:18.643Z","pid":6176,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-30T08:08:22.128Z","pid":6176,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"error","message":"Unexpected token ''', \"'{\"invalid\": json}'\" is not valid JSON","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-30T08:08:32.532Z","pid":6251,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T08:08:37.716Z","pid":6373,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T08:09:01.572Z","pid":6575,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T08:25:08.022Z","pid":7873,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T08:41:09.923Z","pid":8425,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T08:58:51.291Z","pid":9256,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T08:59:06.887Z","pid":9333,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:00:04.077Z","pid":9580,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:00:58.192Z","pid":9904,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:01:43.442Z","pid":10164,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:02:05.958Z","pid":10396,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-30T09:02:17.077Z","pid":10396,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"Validation Error","message":"✖ Invalid input: expected string, received undefined\n  → at name\n✖ Invalid input: expected number, received undefined\n  → at price\n✖ Invalid input: expected string, received undefined\n  → at category","details":{"name":{"errors":["Invalid input: expected string, received undefined"]},"price":{"errors":["Invalid input: expected number, received undefined"]},"category":{"errors":["Invalid input: expected string, received undefined"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-30T09:02:31.642Z","pid":10396,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"Validation Error","message":"✖ Invalid input: expected string, received undefined\n  → at name\n✖ Invalid input: expected number, received undefined\n  → at price\n✖ Invalid input: expected string, received undefined\n  → at category","details":{"name":{"errors":["Invalid input: expected string, received undefined"]},"price":{"errors":["Invalid input: expected number, received undefined"]},"category":{"errors":["Invalid input: expected string, received undefined"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-30T09:02:46.717Z","pid":10490,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:02:53.171Z","pid":10706,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:02:57.243Z","pid":10978,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:03:19.997Z","pid":11096,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-30T09:03:36.580Z","pid":11096,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"error","message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-30T09:03:51.355Z","pid":11096,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"Validation Error","message":"✖ Invalid input: expected string, received undefined\n  → at name\n✖ Invalid input: expected number, received undefined\n  → at price\n✖ Invalid input: expected string, received undefined\n  → at category","details":{"name":{"errors":["Invalid input: expected string, received undefined"]},"price":{"errors":["Invalid input: expected number, received undefined"]},"category":{"errors":["Invalid input: expected string, received undefined"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-30T09:04:14.781Z","pid":11243,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-30T09:04:27.269Z","pid":11243,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"error","message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-30T09:04:41.411Z","pid":11345,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:04:43.273Z","pid":11411,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-30T09:04:44.485Z","pid":11411,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"error","message":"Expected property name or '}' in JSON at position 1 (line 1 column 2)","msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-06-30T09:05:10.565Z","pid":11411,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"error","message":"Unexpected token ''', \"'{\"invalid\": json}'\" is not valid JSON","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-30T09:05:20.592Z","pid":11648,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-30T09:05:22.101Z","pid":11648,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"error","message":"Unexpected token ''', \"'{\"invalid\": json}'\" is not valid JSON","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-30T09:20:03.035Z","pid":12328,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:20:08.281Z","pid":12511,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-30T09:42:58.671Z","pid":12511,"hostname":"Lap-VinhSmile-7.local","err":{"type":"ReferenceError","message":"promises is not defined","stack":"ReferenceError: promises is not defined\n    at FSWatcher.<anonymous> (file:///Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/src/utils/fileProcessor.js:40:25)\n    at FSWatcher.emit (node:events:524:28)\n    at FSWatcher.emitWithAll (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/index.js:540:8)\n    at FSWatcher._emit (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/index.js:632:8)\n    at FsEventsHandler.handleEvent (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:291:14)\n    at FsEventsHandler.addOrChange (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:241:8)\n    at watchCallback (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:345:21)\n    at filteredListener (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:129:7)\n    at /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:155:11\n    at Set.forEach (<anonymous>)"},"msg":"Error reading or parsing JSON file"}
+{"level":50,"time":"2025-06-30T09:43:01.110Z","pid":12511,"hostname":"Lap-VinhSmile-7.local","method":"POST","url":"/api/items","status":"API Error","message":"Item already exists","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-30T09:45:53.708Z","pid":14149,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:46:24.538Z","pid":14258,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:46:25.999Z","pid":14322,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:46:29.148Z","pid":14388,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:46:30.531Z","pid":14445,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:47:25.432Z","pid":14549,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:47:28.978Z","pid":14627,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:47:30.271Z","pid":14686,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:49:12.084Z","pid":15047,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:49:17.690Z","pid":15115,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:49:20.429Z","pid":15184,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:49:22.805Z","pid":15244,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:50:16.681Z","pid":15369,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:50:31.987Z","pid":15607,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:51:26.258Z","pid":15959,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:51:36.224Z","pid":16146,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:53:34.589Z","pid":16300,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:53:55.444Z","pid":16411,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:54:20.500Z","pid":16759,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T09:59:15.504Z","pid":17152,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:00:51.116Z","pid":17962,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:02:19.955Z","pid":18402,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:03:04.237Z","pid":18646,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:04:19.986Z","pid":19014,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:06:29.117Z","pid":19372,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:06:37.980Z","pid":19457,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:07:31.666Z","pid":19620,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:09:47.768Z","pid":19861,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:09:59.986Z","pid":19945,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:10:31.710Z","pid":20067,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:10:32.083Z","pid":20125,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:10:35.749Z","pid":20192,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:11:25.219Z","pid":20445,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:11:27.606Z","pid":20508,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:12:17.003Z","pid":20641,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:12:21.648Z","pid":20714,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:16:52.087Z","pid":21188,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:18:13.075Z","pid":21360,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:19:20.562Z","pid":21693,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:19:33.921Z","pid":21775,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:19:48.552Z","pid":21855,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:20:13.656Z","pid":22057,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:20:22.134Z","pid":22126,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:20:33.467Z","pid":22226,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:20:40.512Z","pid":22308,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:20:45.453Z","pid":22375,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:20:46.222Z","pid":22431,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:21:01.901Z","pid":22522,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:21:31.311Z","pid":22639,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:21:37.306Z","pid":22717,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:21:53.764Z","pid":22808,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:22:01.613Z","pid":22884,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:22:04.569Z","pid":22951,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:22:16.875Z","pid":23048,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:22:19.864Z","pid":23117,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:23:06.077Z","pid":23689,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:31:17.170Z","pid":24195,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:32:29.733Z","pid":24455,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:33:25.743Z","pid":24716,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-30T10:34:23.607Z","pid":24716,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/itemss?limit=10&page=54&q=laeee","status":"error","message":"Route Not Found","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-30T10:35:10.754Z","pid":25055,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:35:22.435Z","pid":25285,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:36:14.441Z","pid":25555,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:36:21.012Z","pid":25624,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:36:30.497Z","pid":25701,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:37:15.332Z","pid":25802,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:38:11.869Z","pid":25918,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:38:39.567Z","pid":26094,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:39:03.492Z","pid":26382,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:39:09.912Z","pid":26463,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:39:13.299Z","pid":26529,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:39:18.804Z","pid":26601,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:39:44.769Z","pid":26813,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:39:57.406Z","pid":27029,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:54:33.257Z","pid":27864,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:56:14.175Z","pid":28040,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:56:51.282Z","pid":28147,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:56:53.665Z","pid":28270,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:57:23.389Z","pid":28515,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:57:38.976Z","pid":28593,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:57:42.168Z","pid":28722,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:57:43.015Z","pid":28779,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:59:17.659Z","pid":29057,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T10:59:58.590Z","pid":29331,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:01:11.430Z","pid":29449,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:01:11.804Z","pid":29506,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:01:28.420Z","pid":29734,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:01:30.211Z","pid":29799,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:01:30.881Z","pid":29857,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:01:32.387Z","pid":29915,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:02:09.572Z","pid":30144,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:02:25.722Z","pid":30224,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:05:45.359Z","pid":30785,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:06:37.552Z","pid":31068,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:06:50.595Z","pid":31270,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:06:51.606Z","pid":31327,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:07:28.315Z","pid":31596,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:07:28.690Z","pid":31652,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:07:29.885Z","pid":31716,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:08:06.518Z","pid":31995,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:08:12.738Z","pid":32068,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:08:16.608Z","pid":32136,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:08:35.030Z","pid":32356,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:08:41.798Z","pid":32446,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:08:50.160Z","pid":32519,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:09:04.832Z","pid":32609,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:09:05.902Z","pid":32666,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:09:32.983Z","pid":32752,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:10:03.959Z","pid":32858,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:13:46.822Z","pid":33231,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:13:54.151Z","pid":33303,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:14:24.494Z","pid":33524,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:14:25.989Z","pid":33588,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:15:28.000Z","pid":33708,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:15:32.497Z","pid":33781,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:15:38.138Z","pid":33857,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:15:46.689Z","pid":33936,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:15:47.802Z","pid":33994,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:17:48.080Z","pid":34253,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:18:27.936Z","pid":34417,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:18:29.778Z","pid":34481,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:18:35.946Z","pid":34556,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:19:06.044Z","pid":34670,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:19:12.703Z","pid":34743,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:19:42.238Z","pid":34980,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:19:51.680Z","pid":35062,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:19:52.456Z","pid":35120,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:31:13.243Z","pid":35736,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:32:22.931Z","pid":36021,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:32:23.555Z","pid":36078,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:32:45.696Z","pid":36344,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:33:10.184Z","pid":36440,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:33:12.063Z","pid":36502,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:33:17.082Z","pid":36627,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:33:28.488Z","pid":36849,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:33:56.048Z","pid":37079,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:34:06.336Z","pid":37329,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:36:24.937Z","pid":37678,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:36:30.166Z","pid":37748,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:37:11.866Z","pid":38001,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:37:42.514Z","pid":38213,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:37:55.384Z","pid":38291,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:37:59.401Z","pid":38360,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:38:31.375Z","pid":38572,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:38:46.525Z","pid":38814,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:38:53.988Z","pid":39024,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:39:51.261Z","pid":39265,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:39:51.859Z","pid":39323,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:40:16.237Z","pid":39557,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:40:49.488Z","pid":39661,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:40:57.078Z","pid":39791,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:40:59.174Z","pid":39857,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:51:46.785Z","pid":40463,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:52:03.288Z","pid":40673,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:52:23.781Z","pid":40766,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:52:35.650Z","pid":40948,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:52:47.856Z","pid":41128,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:53:00.225Z","pid":41330,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:53:11.051Z","pid":41409,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:53:13.182Z","pid":41475,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:53:16.764Z","pid":41544,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:55:39.495Z","pid":41876,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:55:55.186Z","pid":41952,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:56:01.823Z","pid":42028,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:56:07.088Z","pid":42104,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:56:12.003Z","pid":42170,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-30T11:57:00.663Z","pid":42170,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/stats","status":"error","message":"length is not defined","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-30T11:57:56.413Z","pid":42554,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-30T11:58:09.570Z","pid":42554,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/stats","status":"error","message":"length is not defined","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-30T11:58:26.454Z","pid":42676,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-30T11:58:29.249Z","pid":42676,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/stats","status":"error","message":"length is not defined","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-30T11:58:35.158Z","pid":42750,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:58:38.761Z","pid":42876,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:59:04.397Z","pid":43113,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:59:09.922Z","pid":43202,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:59:12.549Z","pid":43268,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:59:24.023Z","pid":43349,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T11:59:52.864Z","pid":43483,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:00:17.472Z","pid":43736,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:00:28.639Z","pid":43814,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:00:36.355Z","pid":43883,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:00:37.864Z","pid":44001,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:00:38.919Z","pid":44058,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:00:40.000Z","pid":44116,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:00:41.073Z","pid":44173,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:01:32.372Z","pid":44448,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:01:35.360Z","pid":44511,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:02:03.438Z","pid":44615,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:03:52.537Z","pid":45091,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:04:06.268Z","pid":45319,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:04:29.668Z","pid":45526,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:06:13.884Z","pid":45834,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:06:40.362Z","pid":45953,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:06:43.802Z","pid":46029,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:07:50.652Z","pid":46242,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:07:59.021Z","pid":46331,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:08:12.115Z","pid":46490,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:08:15.179Z","pid":46562,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-06-30T12:08:39.464Z","pid":46562,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/stats","status":"error","message":"stats is not defined","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-06-30T12:09:12.339Z","pid":46833,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:10:44.502Z","pid":47106,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:11:23.385Z","pid":47404,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:11:29.188Z","pid":47484,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:11:59.426Z","pid":47734,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:12:03.933Z","pid":47811,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:12:12.425Z","pid":47884,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:12:21.512Z","pid":48276,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:13:28.391Z","pid":48446,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:14:00.350Z","pid":48550,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:14:09.871Z","pid":48638,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:14:14.560Z","pid":48716,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:14:24.627Z","pid":48802,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:14:47.489Z","pid":48927,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:14:49.214Z","pid":48993,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:14:59.963Z","pid":49079,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:15:00.468Z","pid":49136,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:15:02.569Z","pid":49205,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:17:26.174Z","pid":49494,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:17:30.730Z","pid":49573,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:17:58.830Z","pid":49670,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:18:36.068Z","pid":49785,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:19:29.690Z","pid":50061,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:20:29.672Z","pid":50196,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:20:31.312Z","pid":50318,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:20:53.597Z","pid":50438,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:21:08.731Z","pid":50533,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:21:10.681Z","pid":50600,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:22:37.651Z","pid":50927,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:22:57.407Z","pid":51037,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:23:26.551Z","pid":51292,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:23:29.438Z","pid":51361,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:23:32.028Z","pid":51418,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:23:32.861Z","pid":51480,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:24:09.856Z","pid":51744,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:24:35.602Z","pid":51836,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:24:45.124Z","pid":51919,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:27:50.631Z","pid":52291,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:28:27.417Z","pid":52581,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:28:31.862Z","pid":52656,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:29:04.205Z","pid":52889,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:29:33.608Z","pid":53125,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:30:29.534Z","pid":53434,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:30:36.875Z","pid":53647,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:30:55.869Z","pid":53873,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:30:58.351Z","pid":53938,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:31:00.234Z","pid":53997,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:31:03.580Z","pid":54073,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:31:04.987Z","pid":54130,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:31:06.950Z","pid":54190,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-06-30T12:31:14.729Z","pid":54281,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-01T10:06:01.253Z","pid":11183,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-01T10:06:14.944Z","pid":11277,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-01T10:08:23.189Z","pid":11885,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-01T10:08:34.296Z","pid":11978,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-07-01T10:08:37.400Z","pid":11978,"hostname":"Lap-VinhSmile-7.local","err":{"type":"TypeError","message":"The \"path\" argument must be of type string or an instance of Buffer or URL. Received undefined","stack":"TypeError [ERR_INVALID_ARG_TYPE]: The \"path\" argument must be of type string or an instance of Buffer or URL. Received undefined\n    at open (node:internal/fs/promises:635:10)\n    at readFile (node:internal/fs/promises:1242:20)\n    at fetchDataAsync (file:///Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/src/utils/fileProcessor.js:18:28)\n    at listItems (file:///Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/src/controllers/items.js:10:23)\n    at Layer.handle [as handle_request] (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/express/lib/router/route.js:149:13)\n    at file:///Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/src/middleware/requestValidator.js:21:13\n    at Layer.handle [as handle_request] (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/express/lib/router/route.js:119:3)","code":"ERR_INVALID_ARG_TYPE"},"msg":"Error reading file"}
+{"level":50,"time":"2025-07-01T10:08:37.401Z","pid":11978,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items?limit=10&page=54&q=laeee","status":"error","message":"The \"path\" argument must be of type string or an instance of Buffer or URL. Received undefined","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-07-01T10:09:50.438Z","pid":12145,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-01T10:17:09.218Z","pid":12496,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-01T14:01:03.956Z","pid":26512,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-01T14:04:57.865Z","pid":26899,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-01T14:07:53.855Z","pid":27840,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-07-01T14:07:56.062Z","pid":27840,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/stats","status":"error","message":"fileProcessor.fetchDataAsync is not a function","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-07-01T14:08:12.102Z","pid":27918,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-01T14:08:21.416Z","pid":28002,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-01T16:51:40.665Z","pid":35876,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:13:44.656Z","pid":8449,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-07-02T07:14:13.422Z","pid":8449,"hostname":"Lap-VinhSmile-7.local","err":{"type":"ReferenceError","message":"promises is not defined","stack":"ReferenceError: promises is not defined\n    at FSWatcher.<anonymous> (file:///Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/src/utils/fileProcessor.js:40:25)\n    at FSWatcher.emit (node:events:524:28)\n    at FSWatcher.emitWithAll (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/index.js:540:8)\n    at FSWatcher._emit (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/index.js:632:8)\n    at FsEventsHandler.handleEvent (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:291:14)\n    at FsEventsHandler.addOrChange (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:241:8)\n    at watchCallback (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:345:21)\n    at filteredListener (/Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:129:7)\n    at /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/backend/node_modules/chokidar/lib/fsevents-handler.js:155:11\n    at Set.forEach (<anonymous>)"},"msg":"Error reading or parsing JSON file"}
+{"level":30,"time":"2025-07-02T07:14:26.300Z","pid":8606,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:14:28.298Z","pid":8669,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:14:30.513Z","pid":8730,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:14:34.608Z","pid":8798,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:14:36.870Z","pid":8857,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:14:49.096Z","pid":9054,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:14:52.404Z","pid":9131,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:15:05.184Z","pid":9250,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:15:52.394Z","pid":9357,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:16:29.936Z","pid":9456,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:16:45.787Z","pid":9596,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:17:10.690Z","pid":9686,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:17:19.338Z","pid":9763,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-02T07:17:19.340Z","pid":9763,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:17:21.682Z","pid":9882,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-02T07:17:21.683Z","pid":9882,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T07:26:14.975Z","pid":10252,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-02T07:26:14.976Z","pid":10252,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T08:57:20.321Z","pid":22045,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-02T08:57:20.323Z","pid":22045,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T09:20:36.782Z","pid":24364,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-02T09:20:36.784Z","pid":24364,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-02T11:56:18.260Z","pid":29046,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-02T11:56:18.262Z","pid":29046,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-03T10:46:30.201Z","pid":28494,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-03T10:46:30.203Z","pid":28494,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-04T12:24:04.584Z","pid":68021,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-04T12:24:04.585Z","pid":68021,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-05T08:36:18.711Z","pid":85824,"hostname":"172-0-1-199.lightspeed.brhmal.sbcglobal.net","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-05T08:36:18.713Z","pid":85824,"hostname":"172-0-1-199.lightspeed.brhmal.sbcglobal.net","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-07-05T08:36:48.070Z","pid":85824,"hostname":"172-0-1-199.lightspeed.brhmal.sbcglobal.net","method":"GET","url":"/favicon.ico","status":"error","message":"Route Not Found","msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-07-05T16:59:22.283Z","pid":2315,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-05T16:59:22.285Z","pid":2315,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-05T17:52:05.472Z","pid":8039,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-05T17:52:05.474Z","pid":8039,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":50,"time":"2025-07-05T17:58:41.462Z","pid":8039,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items/undefined","status":"Validation Error","message":"✖ Invalid input: expected number, received NaN\n  → at id","details":{"id":{"errors":["Invalid input: expected number, received NaN"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-07-05T17:58:41.465Z","pid":8039,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items/undefined","status":"Validation Error","message":"✖ Invalid input: expected number, received NaN\n  → at id","details":{"id":{"errors":["Invalid input: expected number, received NaN"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-07-05T17:58:53.990Z","pid":8039,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items/undefined","status":"Validation Error","message":"✖ Invalid input: expected number, received NaN\n  → at id","details":{"id":{"errors":["Invalid input: expected number, received NaN"]}},"msg":"errorGlobalHandler"}
+{"level":50,"time":"2025-07-05T17:58:53.994Z","pid":8039,"hostname":"Lap-VinhSmile-7.local","method":"GET","url":"/api/items/undefined","status":"Validation Error","message":"✖ Invalid input: expected number, received NaN\n  → at id","details":{"id":{"errors":["Invalid input: expected number, received NaN"]}},"msg":"errorGlobalHandler"}
+{"level":30,"time":"2025-07-05T18:06:03.689Z","pid":10318,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-05T18:06:03.690Z","pid":10318,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-06T07:02:57.609Z","pid":6048,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-06T07:02:57.610Z","pid":6048,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-06T07:23:48.319Z","pid":7286,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-06T07:23:48.321Z","pid":7286,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-06T09:59:57.334Z","pid":19251,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-06T09:59:57.336Z","pid":19251,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-06T19:14:46.176Z","pid":54559,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-06T19:14:46.178Z","pid":54559,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-07T19:25:43.447Z","pid":82373,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-07T19:25:43.448Z","pid":82373,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-08T16:48:10.500Z","pid":60728,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-08T16:48:10.501Z","pid":60728,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}
+{"level":30,"time":"2025-07-08T17:22:10.299Z","pid":64880,"hostname":"Lap-VinhSmile-7.local","msg":"Chokidar is watching for changes in /Users/mac/Documents/Vinh/Tech/Repo/Node/test4/data/development/items.json"}
+{"level":30,"time":"2025-07-08T17:22:10.300Z","pid":64880,"hostname":"Lap-VinhSmile-7.local","msg":"Server is running on port 3001"}

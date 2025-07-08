@@ -1,26 +1,23 @@
-const express = require('express');
-const path = require('path');
-const morgan = require('morgan');
-const itemsRouter = require('./routes/items');
-const statsRouter = require('./routes/stats');
-const cors = require('cors');
-const { getCookie, notFound } = require('./middleware/errorHandler');
+import app from './app.js';
+import constants from './configs/constants.js';
+import { watchFile } from './utils/fileProcessor.js';
+import logger from './utils/logger.js';
 
-const app = express();
-const port = process.env.PORT || 3001;
+// * Added global.DATA_PATH to make it accessible to all files
+global.DATA_PATH = constants.DATA_PATH;
 
-app.use(cors({ origin: 'http://localhost:3000' }));
-// Basic middleware
-app.use(express.json());
-app.use(morgan('dev'));
+// * Call watchFile to watch the data file for changes to re-calculate the stats
+watchFile(global.DATA_PATH);
 
-// Routes
-app.use('/api/items', itemsRouter);
-app.use('/api/stats', statsRouter);
+const PORT = process.env.PORT || 3001;
 
-// Not Found
-app.use('*', notFound);
+const server = app.listen(PORT, (error) => {
+    if (error) {
+        logger.error(error, 'Server failed to start');
+        process.exit(1);
+    } else {
+        logger.info(`Server is running on port ${PORT}`);
+    }
+});
 
-getCookie();
-
-app.listen(port, () => console.log('Backend running on http://localhost:' + port));
+export default server;

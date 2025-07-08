@@ -1,66 +1,38 @@
-const express = require('express');
-const fs = require('fs');
-const path = require('path');
-const router = express.Router();
-const DATA_PATH = path.join(__dirname, '../../../data/items.json');
+// * Refactored routers, which focus on using middleware and controller to handle requests
+import { Router } from 'express';
+import itemsController from '../controllers/items.js';
+import { validateRequest } from '../middleware/requestValidator.js';
+import { createItemSchema, queryItemSchema, getItemSchema } from '../zod-schemas/items.js';
+import { validateExistingItem } from '../middleware/validateItems.js';
 
+
+const router = Router();
+
+/**
+ // ! Temporary unused    
 // Utility to read data (intentionally sync to highlight blocking issue)
+// changed to async to fix the blocking issue
 function readData() {
-  const raw = fs.readFileSync(DATA_PATH);
-  return JSON.parse(raw);
-}
+    const raw = readFileSync(DATA_PATH);
+    return JSON.parse(raw);
+} */
+
 
 // GET /api/items
-router.get('/', (req, res, next) => {
-  try {
-    const data = readData();
-    const { limit, q } = req.query;
-    let results = data;
-
-    if (q) {
-      // Simple substring search (sub‑optimal)
-      results = results.filter(item => item.name.toLowerCase().includes(q.toLowerCase()));
-    }
-
-    if (limit) {
-      results = results.slice(0, parseInt(limit));
-    }
-
-    res.json(results);
-  } catch (err) {
-    next(err);
-  }
-});
+router.get('/',
+    validateRequest(queryItemSchema, 'query'),
+    itemsController.listItems);
 
 // GET /api/items/:id
-router.get('/:id', (req, res, next) => {
-  try {
-    const data = readData();
-    const item = data.find(i => i.id === parseInt(req.params.id));
-    if (!item) {
-      const err = new Error('Item not found');
-      err.status = 404;
-      throw err;
-    }
-    res.json(item);
-  } catch (err) {
-    next(err);
-  }
-});
+router.get('/:id',
+    validateRequest(getItemSchema, 'params'),
+    itemsController.getItemById);
 
 // POST /api/items
-router.post('/', (req, res, next) => {
-  try {
-    // TODO: Validate payload (intentional omission)
-    const item = req.body;
-    const data = readData();
-    item.id = Date.now();
-    data.push(item);
-    fs.writeFileSync(DATA_PATH, JSON.stringify(data, null, 2));
-    res.status(201).json(item);
-  } catch (err) {
-    next(err);
-  }
-});
+router.post('/',
+    validateRequest(createItemSchema, 'body'),
+    validateExistingItem,
+    itemsController.createItem);
 
-module.exports = router;
+
+export default router;

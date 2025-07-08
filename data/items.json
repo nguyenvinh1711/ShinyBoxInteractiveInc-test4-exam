@@ -1,7 +1,62 @@
 [
-  { "id": 1, "name": "Laptop Pro", "category": "Electronics", "price": 2499 },
-  { "id": 2, "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 399 },
-  { "id": 3, "name": "Ultra‑Wide Monitor", "category": "Electronics", "price": 999 },
-  { "id": 4, "name": "Ergonomic Chair", "category": "Furniture", "price": 799 },
-  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199 }
+    {
+        "id": 1,
+        "name": "Laptop Pro",
+        "category": "Electronics",
+        "price": 2499
+    },
+    {
+        "id": 2,
+        "name": "Noise Cancelling Headphones",
+        "category": "Electronics",
+        "price": 399
+    },
+    {
+        "id": 3,
+        "name": "Ultra‑Wide Monitor",
+        "category": "Electronics",
+        "price": 999
+    },
+    {
+        "id": 4,
+        "name": "Ergonomic Chair",
+        "category": "Furniture",
+        "price": 799
+    },
+    {
+        "id": 5,
+        "name": "Standing Desk",
+        "category": "Furniture",
+        "price": 1199
+    },
+    {
+        "name": "Laptop 1",
+        "price": 2499,
+        "category": "Electronics",
+        "id": 1750152352031
+    },
+    {
+        "id": 1750189407905,
+        "name": "Laptop 2",
+        "price": 2499,
+        "category": "Electronics"
+    },
+    {
+        "id": 1750189594142,
+        "name": "Laptop 3",
+        "price": 24999,
+        "category": "Electronics"
+    },
+    {
+        "id": 1750245708479,
+        "name": "Laptop 4",
+        "price": 2499,
+        "category": "Electronics"
+    },
+    {
+        "id": 123,
+        "name": "Wide Monitor 1",
+        "category": "Electronics",
+        "price": 9999
+    }
 ]

@@ -1,23 +1,31 @@
 {
-  "name": "backend",
-  "version": "2.0.0",
-  "main": "src/index.js",
-  "type": "commonjs",
-  "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
-    "test": "jest"
-  },
-  "dependencies": {
-    "axios": "^1.9.0",
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "morgan": "^1.10.0",
-    "request": "^2.88.2"
-  },
-  "devDependencies": {
-    "jest": "^29.7.0",
-    "nodemon": "^3.0.2",
-    "supertest": "^6.3.3"
-  }
+    "name": "backend",
+    "version": "2.0.0",
+    "type": "module",
+    "exports": "./src/index.js",
+    "scripts": {
+        "start": "node ./src/index.js",
+        "dev": "nodemon ./src/index.js",
+        "test:unit": "NODE_ENV=test node --experimental-vm-modules node_modules/jest/bin/jest.js --testPathPattern=__tests__/units",
+        "test:integration": "NODE_ENV=test node --experimental-vm-modules node_modules/jest/bin/jest.js --testPathPattern=__tests__/integration"
+    },
+    "dependencies": {
+        "axios": "^1.9.0",
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "morgan": "^1.10.0",
+        "node-cache": "^5.1.2",
+        "pino": "^9.7.0",
+        "pino-pretty": "^13.0.0",
+        "request": "^2.88.2",
+        "zod": "^3.25.67"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.28.0",
+        "@babel/preset-env": "^7.28.0",
+        "@types/jest": "^30.0.0",
+        "jest": "^29.7.0",
+        "nodemon": "^3.0.2",
+        "supertest": "^6.3.3"
+    }
 }

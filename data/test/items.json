@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Macbook Pro 16 (2025)",
+    "category": "Electronics",
+    "price": 3699
+  },
+  {
+    "id": 2,
+    "name": "Iphone 17 Pro Max",
+    "category": "Electronics",
+    "price": 1299
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy S25",
+    "category": "Electronics",
+    "price": 1199
+  }
+]

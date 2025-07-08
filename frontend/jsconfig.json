@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "paths": {
+            "@components/*": [
+                "components/*"
+            ],
+            "@utils/*": [
+                "utils/*"
+            ],
+            "@assets/*": [
+                "assets/*"
+            ],
+            "@hooks/*": [
+                "hooks/*"
+            ],
+            "@/*": [
+                "*"
+            ]
+        }
+    },
+   "include": ["src/**/*"],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}

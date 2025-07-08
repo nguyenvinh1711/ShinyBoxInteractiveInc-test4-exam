@@ -14,7 +14,7 @@ Your task is to refactor, optimize, and fix these problems.
    - `GET /api/stats` recalculates stats on every request. Cache results, watch file changes, or introduce a smarter strategy.
 
 3. **Testing**  
-   - Add **unit tests** (Jest) for items routes (happy path + error cases).
+   - Added **unit tests** (Jest) for items routes (happy path + error cases).
 
 ### 💻 Frontend (React)
 
